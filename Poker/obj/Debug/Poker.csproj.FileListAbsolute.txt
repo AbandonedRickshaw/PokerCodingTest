@@ -1,0 +1,10 @@
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/bin/Debug/Poker.exe.config
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/bin/Debug/Poker.exe
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/bin/Debug/Poker.pdb
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/bin/Debug/PokerLib.dll
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/bin/Debug/PokerLib.pdb
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/obj/Debug/Poker.csproj.AssemblyReference.cache
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/obj/Debug/Poker.csproj.CoreCompileInputs.cache
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/obj/Debug/Poker.csproj.CopyComplete
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/obj/Debug/Poker.exe
+/Users/brentbordelon/Google Drive/Shared/CodeTest/Poker/obj/Debug/Poker.pdb

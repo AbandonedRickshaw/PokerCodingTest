@@ -1,0 +1,10 @@
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/bin/Debug/netstandard2.0/PokerLib.deps.json
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/bin/Debug/netstandard2.0/PokerLib.dll
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/bin/Debug/netstandard2.0/PokerLib.pdb
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/obj/Debug/netstandard2.0/PokerLib.csproj.AssemblyReference.cache
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/obj/Debug/netstandard2.0/PokerLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/obj/Debug/netstandard2.0/PokerLib.AssemblyInfoInputs.cache
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/obj/Debug/netstandard2.0/PokerLib.AssemblyInfo.cs
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/obj/Debug/netstandard2.0/PokerLib.csproj.CoreCompileInputs.cache
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/obj/Debug/netstandard2.0/PokerLib.dll
+/Users/brentbordelon/Google Drive/Shared/CodeTest/PokerLib/obj/Debug/netstandard2.0/PokerLib.pdb
